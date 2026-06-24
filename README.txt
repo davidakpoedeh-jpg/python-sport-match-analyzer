@@ -18,5 +18,5 @@ A Python application for analyzing sports matches and displaying statistics.
 - sports_data.json - Stored data
 
 ## Run
-
+replace "Enter you gemini API key" on main.py L17 with an actual API key
 python main.py
