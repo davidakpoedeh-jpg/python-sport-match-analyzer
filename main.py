@@ -14,7 +14,7 @@ from Ai_features import MatchAnalyzer as AIFeatures
 from MatchAnalyzer import MatchAnalyzer as PredictionEngine
  
 
-GEMINI_API_KEY = "AQ.Ab8RN6I4JMzJGJVSZ1z81pIh_r0QKMUJLt8AVSwNVhG_kT1BIg"
+GEMINI_API_KEY = "Enter your gemini API key here"
 api_client = SportsAPIClient()
 ai = AIFeatures(api_key=GEMINI_API_KEY)
 predictor = PredictionEngine()
