@@ -17,5 +17,15 @@ The files cantained are:
 - Storage.py - Data storage
 - sports_data.json - Stored data
 
+Technologies Used:
+
+- Python
+- Tkinter
+- Requests
+- JSON
+- Regular Expressions (Regex)
+- Google Gemini AI
+- TheSportsDB API
+
 To run the code, you have to replace "Enter you gemini API key" on main.py line 17 with an actual API key
 
