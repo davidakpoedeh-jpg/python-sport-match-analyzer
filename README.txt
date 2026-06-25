@@ -29,3 +29,6 @@ Technologies Used:
 
 To run the code, you have to replace "Enter you gemini API key" on main.py line 17 with an actual API key
 
+Disclaimer
+
+The match prediction feature is a simple rule-based estimate based on recent results and is intended for educational and entertainment purposes only. It should not be used for betting or financial decisions.
