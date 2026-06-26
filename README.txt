@@ -26,6 +26,7 @@ Technologies Used:
 - Regular Expressions (Regex)
 - Google Gemini AI
 - TheSportsDB API
+- ChatGpt
 
 To run the code, you have to replace "Enter you gemini API key" on main.py line 17 with an actual API key
 
